@@ -1,4 +1,5 @@
 ## In this repository is stored my solution of the edX's Final Project - Linux Commands and Shell Scripting.
+### Verified certificate : https://courses.edx.org/certificates/9e088d08695c47ad8221b26b2ff3e87d
 
 
 ### _________________________________________________________________________________________________________________________
